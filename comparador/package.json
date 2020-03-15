@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwsanabria/Taller06-miso4208.git"
+    "url": "git+https://github.com/haortizr/test-vrt.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jwsanabria/Taller06-miso4208/issues"
+    "url": "https://github.com/haortizr/test-vrt/issues"
   },
-  "homepage": "https://github.com/jwsanabria/Taller06-miso4208#readme",
+  "homepage": "https://github.com/haortizr/test-vrt#readme",
   "dependencies": {
     "mz": "^2.7.0",
     "requirejs": "^2.3.5",
